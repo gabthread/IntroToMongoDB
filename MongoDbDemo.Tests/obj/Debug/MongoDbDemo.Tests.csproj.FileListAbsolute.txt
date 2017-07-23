@@ -1,0 +1,12 @@
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDbDemo.Tests.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDbDemo.Tests.pdb
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Bson.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Driver.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Bson.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Driver.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\obj\Debug\MongoDbDemo.Tests.csprojResolveAssemblyReference.cache
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\obj\Debug\MongoDbDemo.Tests.dll
+c:\users\gonzalezg\documents\visual studio 2015\Projects\MongoDbDemo\MongoDbDemo.Tests\obj\Debug\MongoDbDemo.Tests.pdb

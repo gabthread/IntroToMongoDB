@@ -1,0 +1,26 @@
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.exe.config
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.exe
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.pdb
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Bson.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Bson.xml
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.xml
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.csprojResolveAssemblyReference.cache
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.exe
+C:\Users\GonzalezG\Documents\Visual Studio 2015\Projects\MongoDbDemo\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.pdb
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.exe.config
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.exe
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.pdb
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.exe
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDbDemoConsole.pdb
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Bson.dll
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.Core.dll
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.dll
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Bson.xml
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.xml
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\bin\Debug\MongoDB.Driver.Core.xml
+C:\Gabriel\Blog\IntroToMongoDB\MongoDbDemoConsole\obj\Debug\MongoDbDemoConsole.csprojResolveAssemblyReference.cache
